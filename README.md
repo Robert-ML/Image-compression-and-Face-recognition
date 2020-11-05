@@ -9,4 +9,4 @@ Face recognition<br/>
 <br/>
 We take a few images that we know contain faces and extract the eigenvalues of the images (that are after all only matrices of values). After this we check on other images that we give as input to obtain a certain percentage of the eigenvalues similar and after a certain threshold, we consider there are no faces in that image.<br/>
 <br/>
-More detailes can be found in "Tema2_MN_2019.pdf" file.
+More detailes can be found in the "Tema2_MN_2019.pdf" file.
